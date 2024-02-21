@@ -23,3 +23,4 @@
 
 
 [Поэтапный план работы](https://github.com/fakeev-sd/cat-training/blob/main/PLAN.md)
+[Информационный продукт - Презентация](https://github.com/fakeev-sd/cat-training/blob/main/cat-training.pptx)
